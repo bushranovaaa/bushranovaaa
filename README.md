@@ -31,15 +31,6 @@
 <p align="center">
 <a href="http://www.github.com/bushrasac35"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muffafa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-  
- <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bushrasac35/bushrasac35/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bushrasac35/bushrasac35/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bushrasac35/bushrasac35/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
-
 <!---
 bushrasac35/bushrasac35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
