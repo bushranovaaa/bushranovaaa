@@ -1,48 +1,70 @@
-## 👋 Merhaba, ben Bushra!  
+<h1 align="center">💻👩‍💻 Hey, ben Büşra! 🚀</h1>
 
-💻 **Siber güvenlik meraklısı | Mobil geliştirici adayı | Java, Python & SQL öğreniyorum**  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px">
+</p>
 
----  
+---
 
-### 🚀 Hakkımda  
-- 📍 Türkiye | Teknolojiye ve kodlamaya tutkuyla bağlıyım.  
-- 🔍 Siber güvenlik, mobil geliştirme ve açık kaynak projeleriyle ilgileniyorum.  
-- 🌱 Java, Python, SQL ve Flutter üzerine çalışıyorum.  
-- 🎯 Hedefim: Güçlü yazılımlar geliştirmek ve siber güvenlikte uzmanlaşmak.  
+*🌟 Hakkımda*  
 
----  
+📍 Türkiye'den *tutkulu bir yazılımcı ve siber güvenlik meraklısıyım!*  
+💻 *Mobil geliştirme, güvenlik ve açık kaynak projeleriyle ilgileniyorum.*  
+🔍 *Flutter, Java, Python & SQL öğreniyorum!*  
+🎯 *Hedefim:* Güçlü, güvenli ve kullanıcı dostu yazılımlar geliştirmek.  
 
-### 🛠️ Kullandığım Teknolojiler  
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+*🛠️ Kullandığım Teknolojiler*  
 
----  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
 
-### 📌 Öne Çıkan Projeler  
-🔹 [CyberStart Ödevleri](https://github.com/bushranovaaa/CyberStart-Odevler) – Python ile siber güvenlik ödevlerim.  
-🔹 [Hi_Kod Mobil Uygulama](https://github.com/bushranovaaa/hi-kodflutter) – Flutter ile geliştirdiğim mobil projeler.  
-🔹 [Fibonacci Dizisi](https://github.com/bushranovaaa/Fibonacci-dizisi) – Java ile matematiksel algoritma örneği.  
-🔹 [Dijital Güvenlik Uygulaması](https://github.com/bushranovaaa/dijital_guvenlik_app) – Mobil Uygulama Geliştirme Atölyesi'nde geliştirdiğim dijital güvenlik uygulaması.  
+---
+*🚀 Öne Çıkan Projelerim*  
 
----  
+| 📌 Proje | Açıklama | Teknolojiler |
+|----------|---------|--------------|
+| 🔹 [CyberStart Ödevleri](https://github.com/bushranovaaa/CyberStart-Odevler) | Siber güvenlik & Python çözümleri | Python, CyberSecurity |
+| 🔹 [Dijital Güvenlik Uygulaması](https://github.com/bushranovaaa/dijital_guvenlik_app) | Kullanıcıların dijital güvenliği için mobil app | Flutter, Dart, Firebase |
+| 🔹 [Fibonacci Algoritması](https://github.com/bushranovaaa/Fibonacci-dizisi) | Java ile Fibonacci hesaplayan algoritma | Java, Algoritmalar |
 
-### 📊 GitHub İstatistiklerim  
-![Bushra'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=bushranovaaa&show_icons=true&theme=radical)  
+---
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=bushranovaaa&layout=compact&theme=radical)  
+*📜 Sertifikalar & Başarılar*  
 
----  
+✔ *CyberStart Essentials Mezuniyeti* 🎓  
+✔ *Kodluyoruz Mobil Uygulama Geliştirme Bootcamp*  
+✔ *EmpowerHer Yazılım Eğitimi Programı Katılımcısı*  
 
-### 📫 Bana Ulaşın  
-📩 **E-Posta:** [kurtbusra956@gmail.com](mailto:kurtbusra956@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/bushranovaaa](https://www.linkedin.com/in/bushranovaaa)  
+---
 
-💬 Her zaman yeni projeler, iş birlikleri ve açık kaynak katkıları için iletişime geçebilirsin!  
+*📊 GitHub İstatistiklerim*  
 
----  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bushranovaaa&show_icons=true&theme=radical" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushranovaaa&layout=compact&theme=radical" width="400px">
+</p>
 
-⭐ **Eğer profilimi beğendiysen projelerimi yıldızlamayı unutma!**
+---
+
+*📫 Bana Ulaşın!*  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bushranovaaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:kurtbusra956@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+⭐ *Eğer projelerimi beğendiysen yıldızlamayı unutma!* 😊✨  
+_ _ _
+
