@@ -1,1 +1,50 @@
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Flutter ve Dart için
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Java için
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Python için
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+env/
+venv/
+ENV/
+*.sqlite3
+
+# SQL dosyaları (veritabanı dosyaları vs.)
+*.db
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.swp
+
+# Kişisel dosyalar
+*.bak
+*.old
+*.save
+
+# GitHub Actions cache
+.github/workflows/*.log
 
