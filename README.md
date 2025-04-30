@@ -15,17 +15,37 @@
 
 ---
 
-*🛠️ Kullandığım Teknolojiler*  
+<h2 align="center">🚀 Skills</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</p>
+<div align="center">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
+  </a>  
+  <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter">
+  </a>  
+  <a href="https://dart.dev/">
+    <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart">
+  </a>  
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java">
+  </a>  
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
+  </a>  
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL">
+  </a>  
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">
+  </a>  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode">
+  </a>  
+</div>
 
 ---
+
 *🚀 Öne Çıkan Projelerim*  
 
 | 📌 Proje | Açıklama | Teknolojiler |
@@ -53,6 +73,19 @@
 
 ---
 
+<h2 align="center">🌐 Socials</h2>
+
+<div align="center">
+  <a href="https://github.com/bushranovaaa">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub">
+  </a>  
+  <a href="https://www.linkedin.com/in/bushranovaaa">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
+  </a>  
+</div>
+
+---
+
 *📫 Bana Ulaşın!*  
 
 <p align="center">
@@ -67,4 +100,3 @@
 
 ⭐ *Eğer projelerimi beğendiysen yıldızlamayı unutma!* 😊✨  
 _ _ _
-
