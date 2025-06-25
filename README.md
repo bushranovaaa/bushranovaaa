@@ -1,4 +1,4 @@
-<h1 align="center">💻👩‍💻 Hey, ben Bushra 🚀</h1>
+<h1 align="center">💻👩‍💻 Hey, ben Kübraa 🚀</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px">
