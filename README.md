@@ -101,3 +101,56 @@
 
 ---
 
+📌 Highlight Projects
+
+🔐 Project	Description	Stack
+
+dijital_guvenlik_app	Mobile app to protect users against cyber threats	Flutter, Firebase
+CyberStart-Odevler	CTF challenge solutions from IBM CyberStart	Python, Linux
+fibonacci-dizisi	Simple algorithm in Java	Java
+EmpowerHER	AI-powered app for women's education & digital security	Flutter, AI, Firebase
+
+
+
+---
+
+🎓 Certifications
+
+🧠 CyberStart Essentials – 2025
+
+📱 Kodluyoruz Mobile Dev Bootcamp – 2025
+
+👩‍💼 EmpowerHER Tech Program – 2025
+
+
+
+---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bushranovaaa&show_icons=true&theme=radical" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushranovaaa&layout=compact&theme=radical" width="400px">
+</p>
+---
+
+🌐 Reach Me
+
+<div align="center">
+  <a href="https://github.com/bushranovaaa">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://linkedin.com/in/bushranovaaa">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:kurtbusra956@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</div>
+---
+
+> 🔒 "Herkes yazılımcı olabilir ama güvenli sistem yazmak, vicdan ve bilgi ister."
+
+
+
+⭐ Don’t forget to star if you like what I build 💜
